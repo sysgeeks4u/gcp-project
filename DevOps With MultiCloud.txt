@@ -1,0 +1,31 @@
+DevOps With MultiCloud:
+-----------------------
+Trainer: Ram
+Duration: 4 months
+Fee: 26K
+
+Part 1: Linux & Shell Scripting
+Dur: 3 weeks
+
+Part 2: AWS Cloud
+Dur: 40 Days
+Fee: 12K
+
+
+Part 3: DevOps Tools
+Dur: 2 months
+Fee: 12K
+
+
+DevOps With AWS:
+Dur: 3 months
+Fee: 20K
+
+Part 4: Azure Cloud
+Dur: 3 weeks
+Fee: 8K
+
+
+For Enrollment:
+---------------
++91 6281277196 (AshokIT)
